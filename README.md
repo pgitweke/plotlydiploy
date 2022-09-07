@@ -20,11 +20,11 @@ The purpose of this project is create a horizontal bar chart to display the top 
 
 ### Results
 
-The horizontal bar chart below displays the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage
+The horizontal bar chart below displays the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage.
 
 ![Top 10 Bacterial Species](barChart.png)
 
-The bubble chart below displays different circles with different colors when an individual’s ID is selected from the dropdown menu webpage:
+The bubble chart below displays different circles with different colors when an individual’s ID is selected from the dropdown menu webpage.
 ![Bubble Chart](bubbleChart.png)
 
 Finally, below is a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
