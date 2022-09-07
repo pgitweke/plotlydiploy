@@ -20,7 +20,7 @@ The purpose of this project is create a horizontal bar chart to display the top 
 
 ### Results
 
-The horizontal bar chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage
+The horizontal bar chart below displays the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage
 
 ![Top 10 Bacterial Species](barChart.png)
 
