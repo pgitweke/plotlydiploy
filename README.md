@@ -30,6 +30,6 @@ The bubble chart below displays different circles with different colors when an 
 Finally, below is a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 ![Weekly Washing Frequency](gaugeChart.png) 
 
-![Final Website](finalProduct.png)
+![Final Product](finalProduct.png)
 
 Highlighted in red is where the user will select an option and all the charts will update to the test ID chosen.
